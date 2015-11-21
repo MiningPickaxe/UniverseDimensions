@@ -1,0 +1,16 @@
+[
+{
+  "modid": "universedim",
+  "name": "Universe Dimensions",
+  "description": "A mod written by Mining_Pickaxe to add some dimensions to the Modpack "Project Universe",
+  "version": "Beta1.0",
+  "mcversion": "1.7",
+  "url": "https://www.mining-pickaxe.jimdo.com",
+  "updateUrl": "",
+  "authorList": ["Mining_Pickaxe"],
+  "credits": "Code: Mining_Pickaxe",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
